@@ -14,6 +14,7 @@ import java.util.List;
 public class Collection {
 	public static void main(String[] args) {
 
+
 		//---
 		//常见的集合
 		//---
